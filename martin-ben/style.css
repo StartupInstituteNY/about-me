@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	font-family: verdana, sans-serif;
+	font-size: 1em;
+	/* line-height: 1; */
+	color: #999;
+	height: 100%;
+}
+/**************************************************
+*CALENDAR
+**************************************************/
+.calendar-container{
+	margin: auto;
+	position: relative;
+	width: 130px;
+	height: 180px;
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	color: #fff;
+	text-align: center;
+}
+h1{
+  font-family: verdana, sans-serif;
+  color: #999;
+  font-size: 1em;
+}
+p{
+	padding: 10px 0;
+	font-size: 16px;
+}
+#calendar-date{
+	font-size: 64px;
+}
+#calendar-month-year{
+	font-size: 14px;
+}
